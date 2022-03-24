@@ -1,0 +1,13 @@
+C:\Users\Olga\source\repos\osi_laba_2\bin\Debug\netcoreapp3.1\osi_laba_2.exe
+C:\Users\Olga\source\repos\osi_laba_2\bin\Debug\netcoreapp3.1\osi_laba_2.deps.json
+C:\Users\Olga\source\repos\osi_laba_2\bin\Debug\netcoreapp3.1\osi_laba_2.runtimeconfig.json
+C:\Users\Olga\source\repos\osi_laba_2\bin\Debug\netcoreapp3.1\osi_laba_2.runtimeconfig.dev.json
+C:\Users\Olga\source\repos\osi_laba_2\bin\Debug\netcoreapp3.1\osi_laba_2.dll
+C:\Users\Olga\source\repos\osi_laba_2\bin\Debug\netcoreapp3.1\osi_laba_2.pdb
+C:\Users\Olga\source\repos\osi_laba_2\obj\Debug\netcoreapp3.1\osi_laba_2.csprojAssemblyReference.cache
+C:\Users\Olga\source\repos\osi_laba_2\obj\Debug\netcoreapp3.1\osi_laba_2.AssemblyInfoInputs.cache
+C:\Users\Olga\source\repos\osi_laba_2\obj\Debug\netcoreapp3.1\osi_laba_2.AssemblyInfo.cs
+C:\Users\Olga\source\repos\osi_laba_2\obj\Debug\netcoreapp3.1\osi_laba_2.csproj.CoreCompileInputs.cache
+C:\Users\Olga\source\repos\osi_laba_2\obj\Debug\netcoreapp3.1\osi_laba_2.dll
+C:\Users\Olga\source\repos\osi_laba_2\obj\Debug\netcoreapp3.1\osi_laba_2.pdb
+C:\Users\Olga\source\repos\osi_laba_2\obj\Debug\netcoreapp3.1\osi_laba_2.genruntimeconfig.cache
